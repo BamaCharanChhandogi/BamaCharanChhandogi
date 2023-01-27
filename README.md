@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hey, I'm Bama! 🐥
+<a href="https://twitter.com/BamacharanCh">
+  <img align="left" alt="bama's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/bama-charan-chhandogi-b63420240/">
+  <img align="left" alt="bama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a hreh="https://github.com/Bamacharan">
+  <img align="left" alt="Bama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Bamacharanchh">
+  <img align="left" alt="Bama's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/loving_python/">
+  <img align="left" alt="bama's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.quora.com/profile/Bama-Charan-Chhandogi">
+  <img align="left" alt="Bama's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
+</a>
+<br/>
+<br/>
+<!-- - 🔭 I’m currently working -->
+<!-- - 👯 I’m looking to collaborate on . -->
 
-<!--
-**BamaCharanChhandogi/BamaCharanChhandogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Javascript. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+- 🤔 I’m looking for a job as a web Developer .
+- 💬 Ask me about anything between Code and Community 💖
+- 📫 How to reach me: [Twitter - @BamacharanCh](https://twitter.com/BamacharanCh) , [LinkedIn - @bama-charan-chhandogi-b63420240](https://www.linkedin.com/in/bama-charan-chhandogi-b63420240/)
+- 😄 Pronouns: He/Him 💁‍♂️
+- ⚡ Fun fact: I wake up early every morning :owl:
 
-Here are some ideas to get you started:
+[![Twitter: BamaCharan](https://img.shields.io/twitter/follow/kindavishal?style=social)](https://twitter.com/BamacharanCh)
+[![GitHub iamBama](https://img.shields.io/github/followers/BamaCharan?label=follow&style=social)](https://github.com/Bamacharan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png"></code>
