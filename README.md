@@ -16,6 +16,6 @@ I'm currently learning Javascript. <br>🤔 I’m looking for a job as a web Dev
 ![](https://github-profile-trophy.vercel.app/?username=BamaCharanChhandogi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BamaCharanChhandogi&icon=4&color=5)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BamaCharanChhandogi&label=Profile%20views&color=0e75b6&style=flat" alt="BamaCharanChhandogi" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
