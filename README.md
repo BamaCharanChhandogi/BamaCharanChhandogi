@@ -1,50 +1,21 @@
-# Hey, I'm Bama! 🐥
-<a href="https://twitter.com/BamacharanCh">
-  <img align="left" alt="bama's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bama-charan-chhandogi-b63420240/">
-  <img align="left" alt="bama's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a hreh="https://github.com/Bamacharan">
-  <img align="left" alt="Bama's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Bamacharanchh">
-  <img align="left" alt="Bama's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/loving_python/">
-  <img align="left" alt="bama's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.quora.com/profile/Bama-Charan-Chhandogi">
-  <img align="left" alt="Bama's quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
-</a>
-<br/>
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BamaCharanChhandogi&label=Profile%20views&color=0e75b6&style=flat" alt="BamaCharanChhandogi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BamaCharanChhandogi" alt="BamaCharanChhandogi" /></a> </p>
-<!-- - 🔭 I’m currently working -->
-<!-- - 👯 I’m looking to collaborate on . -->
-
-- 🌱 I’m currently learning Javascript. <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-- 🤔 I’m looking for a job as a web Developer .
-- 💬 Ask me about anything between Code and Community 💖
-- 📫 How to reach me: [Twitter - @BamacharanCh](https://twitter.com/BamacharanCh) , [LinkedIn - @bama-charan-chhandogi-b63420240](https://www.linkedin.com/in/bama-charan-chhandogi-b63420240/)
-- 😄 Pronouns: He/Him 💁‍♂️
-- ⚡ Fun fact: I wake up early every morning :owl:
-
-[![Twitter: BamaCharan](https://img.shields.io/twitter/follow/BamaCharan?style=social)](https://twitter.com/BamacharanCh)
-[![GitHub iamBama](https://img.shields.io/github/followers/BamaCharan?label=follow&style=social)](https://github.com/Bamacharan)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+# 💫 Hey, I'm Bama! 🐥
+I'm currently learning Javascript. <br>🤔 I’m looking for a job as a web Developer .<br>💬 Ask me about anything between Code and Community 💖<br>😄 Pronouns: He/Him 💁‍♂️<br>⚡ Fun fact: I wake up early every morning 🦉
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BamaCharanChhandogi&show_icons=true&locale=en&layout=compact" alt="BamaCharanChhandogi" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loving_python) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bama-charan-chhandogi-b63420240/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bama-Charan-Chhandogi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BamacharanCh) 
+
+# 💻 Tech Stack:
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BamaCharanChhandogi&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BamaCharanChhandogi&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BamaCharanChhandogi&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BamaCharanChhandogi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=BamaCharanChhandogi&icon=4&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
