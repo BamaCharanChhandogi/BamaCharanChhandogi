@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Bama! 🐥
-I'm currently learning Javascript. <br>🤔 I’m looking for a job as a web Developer .<br>💬 Ask me about anything between Code and Community 💖<br>😄 Pronouns: He/Him 💁‍♂️<br>⚡ Fun fact: I wake up early every morning 🦉
+🌱 I'm currently learning Javascript. <br>🤔 I’m looking for a job as a web Developer .<br>💬 Ask me about anything between Code and Community 💖<br>😄 Pronouns: He/Him 💁‍♂️<br>⚡ Fun fact: I wake up early every morning 🦉
 
 
 ## 🌐 Socials:
