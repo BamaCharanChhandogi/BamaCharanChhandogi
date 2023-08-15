@@ -10,7 +10,9 @@
 
 ### :fire: My Stats :
 
-[![Stats](https://github-stats-alpha.vercel.app/api?username=BamaCharanChhandogi&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")](https://github-stats-alpha.vercel.app/api?username=BamaCharanChhandogi&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")
+![BamaCharanChhandogi's Stats](https://github-readme-stats.vercel.app/api?username=BamaCharanChhandogi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![BamaCharanChhandogi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BamaCharanChhandogi&theme=vue-dark&hide_border=true)
+<!--[![Stats](https://github-stats-alpha.vercel.app/api?username=BamaCharanChhandogi&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")](https://github-stats-alpha.vercel.app/api?username=BamaCharanChhandogi&cc=222425&tc=fff&ic=fff&bc=222425 "Stats") -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BamaCharanChhandogi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
